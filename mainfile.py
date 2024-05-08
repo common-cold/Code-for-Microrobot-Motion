@@ -6,7 +6,7 @@ import threading
 
 from PoweSupplyConfig import *
 
-os.chdir("F:\\Python-shits\\Tkinter_Testing\\Tkinter")
+os.chdir("C:\\Users\\Kanhu\\Desktop\\PhD Work\\Helmholtz coil with code\\Code for motion")
 
 exit_event = threading.Event()
 
